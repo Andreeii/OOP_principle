@@ -19,6 +19,8 @@ public class main {
         Plant bush1 = new bush (20,2,"macies","iregular");
         bush1.showobj();
 
+        System.out.println("GIT TEST ");
+
 
 
     }

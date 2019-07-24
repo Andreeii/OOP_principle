@@ -23,6 +23,7 @@ public class main {
         System.out.println("git test 2 in dev branch");
         System.out.println("push in developer 2 branch");
 
+        Plant treevisin = new Tree(45,4,"visin","pom");
 
 
     }

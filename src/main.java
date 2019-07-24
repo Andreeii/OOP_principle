@@ -20,6 +20,7 @@ public class main {
         bush1.showobj();
 
         System.out.println("GIT TEST ");
+        System.out.println("git test 2 in dev branch");
 
 
 
